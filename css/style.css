@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: red;
+}
+
+canvas {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
